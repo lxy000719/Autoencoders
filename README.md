@@ -1,3 +1,3 @@
 # Autoencoders
 
-Examples notebooks based on MNIST dataset and Kaggle Fraud Detection dataset
+Examples notebooks of Autoencoders and Variational Autoencoders based on MNIST dataset and Kaggle Fraud Detection dataset
